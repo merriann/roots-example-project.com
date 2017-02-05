@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [production]
-test.3535carey.us
+104.236.37.210
 
 [web]
-test.3535carey.us
+104.236.37.210
